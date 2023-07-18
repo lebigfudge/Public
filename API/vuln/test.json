@@ -1,0 +1,9 @@
+{
+    "url": "http://10.31.41.102:8000/test.yaml",
+    "urls": [
+        {
+            "url": "http://10.31.41.102:8000/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
